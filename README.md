@@ -39,5 +39,6 @@ Overall I've tried to keep my structure clean and follow the architectural patte
 - Unit testing
 - More robust error codes
 - Logging and handling exceptions on more layers
+- Dockerization in the case of hosting on a non-serverless platform with the need for scalling. 
 
 Again, most of these features were not implemented due to time constraints on my end, but I would love to finish this project on a later stage.
